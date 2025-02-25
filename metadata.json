@@ -1,0 +1,6 @@
+{
+  "name": "TestTax",
+  "symbol": "TTEST",
+  "description": "9% tax, SOL every 5 mins",
+  "image": "https://github.com/chalkychalk42/TestTax/blob/main/testtax.png?raw=true"
+}
